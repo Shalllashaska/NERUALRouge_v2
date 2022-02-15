@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3a5c9e503d1364ba677d4677e43744, type: 3}
+  m_Name: Pipe
+  m_EditorClassIdentifier: 
+  typeOfGun: 3
+  nameOfGun: Pipe
+  damage: 10
+  reloadTime: 0
+  ammo: 0
+  clipsize: 0
+  fireRate: 0.7
+  recoilX: 0.5
+  recoilY: 5
+  recoilZ: 5
+  snappiness: 0.4
+  returnSpeed: 0.3
+  bloom: 0
+  bloomWhenIsAiming: 0
+  aimSpeed: 0
+  pallets: 0
+  prefabGun: {fileID: 4564154431760902807, guid: efdadf5ed2e7d3543af6e5751926db31, type: 3}
+  prefabBullet: {fileID: 0}
+  prefabMuzzleFlash: {fileID: 0}
+  prefabCrosshair: {fileID: 0}
+  aiming: 0
+  allowButtonHold: 0
+  gunShotSound: {fileID: 0}
+  reloadSound: {fileID: 0}
+  pitchRand: 3
+  volumeShot: 1
+  volumeReload: 1

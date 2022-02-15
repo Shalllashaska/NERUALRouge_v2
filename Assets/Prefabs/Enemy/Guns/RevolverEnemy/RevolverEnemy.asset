@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3a5c9e503d1364ba677d4677e43744, type: 3}
+  m_Name: RevolverEnemy
+  m_EditorClassIdentifier: 
+  typeOfGun: 0
+  level: 3
+  nameOfGun: Revolver
+  damage: 32.53
+  reloadTime: 2
+  ammo: 20
+  clipsize: 6
+  fireRate: 0.6
+  recoilX: 7
+  recoilY: 1
+  recoilZ: 1
+  snappiness: 10
+  returnSpeed: 3
+  bloom: 30
+  bloomWhenIsAiming: 2
+  aimSpeed: 10
+  pallets: 0
+  prefabGun: {fileID: 6421582063861769106, guid: 350a3ecf78131a04dbf4201e39fa88a5, type: 3}
+  prefabBullet: {fileID: 4454840312326047612, guid: 993ff55200de2dc45861f7db9cc9b18c, type: 3}
+  prefabMuzzleFlash: {fileID: 7895226144228378578, guid: 87dd504e819c32d4184d8a14a28fed15, type: 3}
+  prefabCrosshair: {fileID: 0}
+  aiming: 1
+  allowButtonHold: 0
+  gunShotSound: {fileID: 0}
+  reloadSound: {fileID: 0}
+  pitchRand: 3
+  volumeShot: 1
+  volumeReload: 1

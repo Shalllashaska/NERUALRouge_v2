@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ff1384270c431244b9b60d928e36b66, type: 3}
+  m_Name: EGNR
+  m_EditorClassIdentifier: 
+  typeOfArmor: 2
+  armorPrefab: {fileID: 8511991102577202281, guid: 5360bc9ccdebd454ea6b7df6f546d0f9, type: 3}
+  speedMult: 0
+  healthMult: 0
+  damageMult: 0
